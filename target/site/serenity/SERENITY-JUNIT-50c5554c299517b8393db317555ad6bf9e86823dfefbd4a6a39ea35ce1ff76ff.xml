@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="AppTest.HomePageTest" skipped="0" tests="1" time="58.89" timestamp="2021-08-17 10:28:39"><testcase classname="AppTest.HomePageTest" name="Create user test"><error message="java.lang.reflect.InvocationTargetException&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'HOME', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'&#10;Driver info: driver.version: RemoteWebDriver" type="org.openqa.selenium.json.JsonException">java.lang.reflect.InvocationTargetException
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HOME', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: driver.version: RemoteWebDriver</error><system-err>java.lang.reflect.InvocationTargetException
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HOME', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: driver.version: RemoteWebDriver&#13;
+com.google.common.collect.SingletonImmutableBiMap.forEach(SingletonImmutableBiMap.java:65)&#13;
+UIPages.HomePage.clickUsers(HomePage.java:87)&#13;
+Steps.HomePageSteps.clickUserbtn(HomePageSteps.java:32)&#13;
+AppTest.HomePageTest.createUserTest(HomePageTest.java:35)&#13;
+</system-err></testcase></testsuite>
